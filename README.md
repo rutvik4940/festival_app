@@ -23,6 +23,6 @@ samples, guidance on mobile development, and a full API reference.
    <img src="https://github.com/rutvik4940/festival_app/assets/153794371/67cecec7-f202-4e56-b055-3f3bbd1f9664"
    height="400px" width="200px"/>
  <video>
-   https://github.com/rutvik4940/festival_app/assets/153794371/7f030176-8fce-488f-8f37-74cf89831219  
+https://github.com/rutvik4940/festival_app/assets/153794371/3829808b-fa25-4ea9-8b3c-0767d008a8b3
  </video> 
 </p>
