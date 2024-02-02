@@ -35,6 +35,7 @@ class _FestivalScreenState extends State<FestivalScreen> {
     return SafeArea(
       child: Scaffold(
         appBar: AppBar(
+          title: Text("Post Additing"),
           actions: [
             IconButton(
               onPressed: () async {
