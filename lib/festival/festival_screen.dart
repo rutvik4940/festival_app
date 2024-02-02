@@ -6,6 +6,8 @@ import 'package:flutter/rendering.dart';
 import 'package:flutter/services.dart';
 import 'dart:ui' as ui;
 
+import 'package:share_plus/share_plus.dart';
+
 class FestivalScreen extends StatefulWidget {
   const FestivalScreen({super.key});
 
@@ -57,6 +59,7 @@ class _FestivalScreenState extends State<FestivalScreen> {
                 String path = "/storage/emulated/0/Download/rutvik.png";
                 await File(path).writeAsBytes(byteData!.buffer.asUint8List());
                 print("$path");
+                final result = await Share.shareXFiles([XFile(path)], text: 'Good picture');
 
               },
               icon: const Icon(Icons.share),
