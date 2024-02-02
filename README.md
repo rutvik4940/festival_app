@@ -18,11 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 <p>
   <img src="https://github.com/rutvik4940/festival_app/assets/153794371/0a100af9-4763-498a-be74-140a3caf68ac"
    height="400px" width="200px"/>
-
    <img src="https://github.com/rutvik4940/festival_app/assets/153794371/bc73a237-48ed-4101-9b8d-d11f554dfcec"
    height="400px" width="200px"/>
-
-   
    <img src="https://github.com/rutvik4940/festival_app/assets/153794371/849e13f8-bf52-4b13-843c-816281ebd3f4"
    height="400px" width="200px"/>
 
